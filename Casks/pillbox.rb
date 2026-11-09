@@ -1,6 +1,6 @@
 cask "pillbox" do
-  version "0.4.0"
-  sha256 "7b83bcc40c27e3b4a20682fce3569dd5e6c4a481fd11a2981cb19474e48a3a11"
+  version "0.5.0"
+  sha256 "25d923b3d85b728c7d47b39fbbad4342191aa1b3f861fa724aa9f5493ba88f8a"
 
   url "https://github.com/Arrows78/Pillbox/releases/download/v#{version}/Pillbox-#{version}.zip"
   name "Pillbox"
